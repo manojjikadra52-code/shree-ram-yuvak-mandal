@@ -1,0 +1,6 @@
+{
+  "name": "Shree Ram Yuvak Mandal",
+  "description": "Mandal accounts tracker, members monthly payment directory, and donation reporting app",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
